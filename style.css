@@ -180,12 +180,20 @@ p{
 
 }
 
+
 .card-img{
     max-width:100%;
     display:block;
     height:auto;
 }
+.recepie-card h4{
+    margin-top:20px;
+    
+}
+.recepie-card p{
+    font-size: 16px;
 
+}
 #visitors{
     max-width: 100%;
     display:flex;
